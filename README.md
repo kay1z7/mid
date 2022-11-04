@@ -11,4 +11,4 @@ Also, there's fetch api with random lyrics from Taylor's song
 Here you can check it by yoursel!
 
 
-kay1z7.github.io/mid/
+https://kay1z7.github.io/mid/
