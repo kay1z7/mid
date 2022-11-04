@@ -1,0 +1,61 @@
+body{
+    background-image: url(../images/Aura\ Gradient.jfif);
+    height: 400vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-title{
+    margin-top: 200px;
+    font-family: 'Dancing Script', cursive;
+    margin-left: 40%;
+}
+.header-subtitle{
+    margin-top: 50px;
+    margin-left: 45%;
+   
+}
+#video {
+    width: 50%;
+}
+
+.container{
+    text-decoration: none;
+
+}
+.comtainer {
+    margin: 200px auto;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+.quote-box {
+    border: 2px solid #ddd;
+    padding: 30px 20px;
+    margin-bottom: 20px;
+    fill: aliceblue;
+} 
+#quote {
+    color: #444;
+    text-align: center;
+}
+
+  
+#knopka {
+  align-self: center;
+  border: 2px solid rgb(254, 253, 253);
+  padding: 10px 15px;
+  text-transform: uppercase;
+  color: rgb(255, 253, 253);
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 46%;
+
+} 
+  
+#btn:focus {
+  outline: none;
+}
+
+  
